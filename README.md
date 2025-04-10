@@ -29,4 +29,11 @@ Traffic congestion is a significant issue in the Kitchener-Waterloo area, partic
 
 ---
 
-## [Research Work click me](./Research_Deliverable_1.md)
+## [Research Work click me](./Research_Deliverable_1.md) : Making the Research to a small area specific.
+
+## Problem Analysis in a Small Part of Kitchener-Waterloo Region: Parking Congestion near University Avenue, Uptown Waterloo
+
+Parking congestion in Uptown Waterloo is a significant issue due to the high volume of visitors and limited parking availability. Drivers spend considerable time searching for available parking spots, which contributes to traffic congestion and delays.
+More details of research you can find by clicking Research Work.
+
+
