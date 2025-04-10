@@ -62,6 +62,30 @@ The repeated incidents of parking congestion not only affected my plans but also
 
 ---
 
+### Main Causes of Parking Congestion
+
+1. **High Demand for Parking**
+   - **Proximity to Key Destinations**: Areas near universities, shopping centers, and business districts often experience high demand for parking. In Uptown Waterloo, the proximity to Wilfrid Laurier University and the University of Waterloo, as well as various shops and restaurants, leads to increased demand for parking spaces [7].
+   - **Events and Peak Hours**: Special events and peak hours significantly increase the demand for parking. During events, such as university functions or local festivals, the influx of visitors exacerbates parking congestion [8].
+
+2. **Limited Parking Availability**
+   - **Insufficient Parking Infrastructure**: Many urban areas lack adequate parking infrastructure to accommodate the growing number of vehicles. In Uptown Waterloo, existing parking facilities, such as the Regina Parking Lot and Waterloo Town Square Parking Lot South, often reach capacity quickly [4].
+   - **Design Constraints**: The design of parking facilities may not be optimized for maximum capacity. Inefficient use of space and outdated designs can limit the number of available parking spots [4].
+
+3. **Driver Behavior**
+   - **Cruising for Parking**: Drivers often spend significant time cruising for parking, which contributes to traffic congestion. Studies estimate that up to 30% of urban traffic congestion is caused by drivers searching for parking [9].
+   - **Preference for Free or Low-Cost Parking**: Drivers tend to bypass off-street parking options in favor of free or low-cost on-street parking, leading to increased congestion in areas with limited on-street parking availability [10].
+
+4. **Physical Bottlenecks**
+   - **Capacity Limitations**: Physical bottlenecks, such as narrow streets and limited entry/exit points, can restrict the flow of traffic and exacerbate parking congestion. These bottlenecks are common in densely populated urban areas [11].
+   - **Construction and Road Closures**: Temporary road closures and construction projects can further limit parking availability and create additional congestion [11].
+
+5. **Environmental and Social Factors**
+   - **Environmental Impact**: The increased fuel consumption and emissions from vehicles cruising for parking contribute to environmental pollution. Reducing parking congestion can have positive environmental benefits [9].
+   - **Community Complaints**: Residents and businesses often express frustration over parking congestion, which can impact the local economy and quality of life [1].
+
+---
+
 ## References
 
 1. [Reddit Discussion on Traffic Congestion](https://www.reddit.com/r/waterloo/comments/y2cv4p/is_it_just_me_or_is_traffic_congestion_around/)  
@@ -70,4 +94,9 @@ The repeated incidents of parking congestion not only affected my plans but also
 4. [University of Waterloo Parking Lots](https://uwaterloo.ca/sustainable-transportation/about/our-parking-lots)  
 5. [Transportation & Parking | Campus Housing - University of Waterloo](https://uwaterloo.ca/campus-housing/student-life-and-services/transportation)  
 6. [Uptown Parking - Uptown Waterloo Business Improvement Area](https://uptownwaterloobia.com/uptown-parking/)  
+7. [CityNews Kitchener Traffic Report](https://kitchener.citynews.ca/traffic/)  
+8. [LocalConditions.com Kitchener Traffic](https://www.localconditions.com/canada/ontario/kitchener/traffic/)  
+9. [Rodrigue, J.-P. (2012). The Geography of Transport Systems](https://www.parking.net/parking-news/skyline-parking-ag/traffic-congestion)  
+10. [Jones, C. (2012). Emerging Trends in Parking Study](https://www.parking.net/parking-news/skyline-parking-ag/traffic-congestion)  
+11. [Federal Highway Administration: Traffic Congestion and Reliability](https://ops.fhwa.dot.gov/congestion_report/executive_summary.htm)  
 
