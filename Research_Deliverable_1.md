@@ -24,5 +24,28 @@ The repeated incidents of parking congestion not only affected my plans but also
 
 ---
 
+### Steps of Research taken by Sheetal and Urvi
 
+1. **Personal Observations**
+   - We started by documenting our own experiences and observations while searching for parking near University Avenue. This included noting the times of day when parking was most difficult to find and the specific locations where congestion was most severe.
+
+2. **Local News Reports**
+   - We reviewed local news articles and reports to gather information on parking issues in Uptown Waterloo. These sources provided insights into the broader impact of parking congestion on the community [1][2].
+
+3. **Traffic Studies**
+   - We examined traffic studies and reports from the City of Waterloo and other relevant organizations. These studies highlighted the high demand for parking in the area and the limited availability of parking spots [3][4].
+
+4. **Community Feedback**
+   - We researched the feedback from residents and businesses in Uptown Waterloo through online forums and social media. This feedback helped identify specific pain points and areas where parking congestion was most problematic [5][6].
+
+---
+
+## References
+
+1. [Reddit Discussion on Traffic Congestion](https://www.reddit.com/r/waterloo/comments/y2cv4p/is_it_just_me_or_is_traffic_congestion_around/)  
+2. [City of Waterloo Bylaws and Enforcement](https://www.waterloo.ca/en/living/bylaws-and-enforcement.aspx)  
+3. [Uptown Parking Strategy](https://www.waterloo.ca/en/government/resources/Documents/Cityadministration/Uptown-Parking-Strategy.pdf)  
+4. [University of Waterloo Parking Lots](https://uwaterloo.ca/sustainable-transportation/about/our-parking-lots)  
+5. [Transportation & Parking | Campus Housing - University of Waterloo](https://uwaterloo.ca/campus-housing/student-life-and-services/transportation)  
+6. [Uptown Parking - Uptown Waterloo Business Improvement Area](https://uptownwaterloobia.com/uptown-parking/)  
 
