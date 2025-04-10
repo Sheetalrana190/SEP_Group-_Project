@@ -17,7 +17,7 @@ Design a system to optimize traffic flow and reduce congestion during peak hours
 
 ---
 
-**Introduction**
+## Introduction : 
 
 Traffic congestion is a significant issue in the Kitchener-Waterloo area, particularly during peak hours. Several factors contribute to this problem:
 
