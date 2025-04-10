@@ -40,6 +40,28 @@ The repeated incidents of parking congestion not only affected my plans but also
 
 ---
 
+### Resources Highlighting the Problem
+
+1. **Reddit Discussion on Traffic Congestion**  
+   - A Reddit thread discusses the increasing traffic congestion in Waterloo, including issues with parking and inefficient traffic light optimization. Users express frustration over the difficulty of finding parking and the frequent red lights, which contribute to congestion [1].
+
+2. **City of Waterloo Bylaws and Enforcement**  
+   - The City of Waterloo provides a platform for residents to make parking complaints. This indicates that parking issues are a common concern among residents, and the city has mechanisms in place to address these complaints [2].
+
+3. **Uptown Parking Strategy**  
+   - The Uptown Parking Strategy document outlines the current parking infrastructure in Uptown Waterloo, including the number of parking stalls controlled by the city and private property owners. The document highlights the limited availability of parking spaces and the need for effective parking management [3].
+
+4. **University of Waterloo Parking Lots**  
+   - The University of Waterloo operates multiple parking lots on campus, but the demand for parking often exceeds the available spaces. This leads to congestion and difficulty in finding parking, especially during peak hours [4].
+
+5. **Transportation & Parking | Campus Housing - University of Waterloo**  
+   - The University of Waterloo's Campus Housing website discusses the parking regulations and availability on campus. It mentions the strict enforcement of parking rules and the need for students and visitors to purchase parking permits, indicating the high demand for parking spaces [5].
+
+6. **Uptown Parking - Uptown Waterloo Business Improvement Area**  
+   - The Uptown Waterloo Business Improvement Area provides information on parking options in Uptown Waterloo. It mentions the two-hour free parking limit and the need for visitors to purchase additional parking time, highlighting the limited availability of parking spaces [6].
+
+---
+
 ## References
 
 1. [Reddit Discussion on Traffic Congestion](https://www.reddit.com/r/waterloo/comments/y2cv4p/is_it_just_me_or_is_traffic_congestion_around/)  
