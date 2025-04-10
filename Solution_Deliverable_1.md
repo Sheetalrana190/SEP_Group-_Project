@@ -60,10 +60,10 @@ By focusing on these aspects, the proposed solution offers a unique approach to 
 ## Comparison with Existing Solutions
 
 1. **Rumbo Mobile**  
-   - Rumbo Mobile offers a smart parking ecosystem that includes real-time parking vacancy data transmitted to the cloud. While this system helps reduce traffic congestion by guiding drivers to available spots, it primarily focuses on larger parking ecosystems and may not specifically address the unique needs of University Avenue [12].
+   - Rumbo Mobile offers a smart parking ecosystem that includes real-time parking vacancy data transmitted to the cloud. While this system helps reduce traffic congestion by guiding drivers to available spots, it primarily focuses on larger parking ecosystems and may not specifically address the unique needs of University Avenue [12]. Their solutions are designed to enhance efficiency and reduce operational costs, but they do not explicitly mention a community participation feature for listing unused parking spaces.
 
 2. **LocoMobi World**  
-   - LocoMobi World has implemented a smart parking management system in Kitchener, which includes automated systems for parking garages and surface properties. This system uses artificial intelligence and real-time data to manage parking availability but does not specifically target the University Avenue area [13].
+   - LocoMobi World has implemented a smart parking management system in Kitchener, which includes automated systems for parking garages and surface properties. This system uses artificial intelligence and real-time data to manage parking availability but does not specifically target the University Avenue area [13], but it does not include a feature for community participation where residents and businesses can list their unused parking spaces.
 
 3. **Passport Parking App**  
    - The City of Kitchener has introduced the Passport Parking app, which allows users to pay for and extend parking sessions from their phones. While this app provides convenience, it does not offer real-time parking availability or address the specific congestion issues near University Avenue [14].
