@@ -42,3 +42,14 @@ More details of research you can find by clicking Research Work.
 
 The Parking Space Sharing Platform aims to alleviate parking congestion near University Avenue by using sensors to detect real-time parking availability and integrating this data into a mobile app that guides drivers to open spots. Additionally, it encourages community participation by allowing residents and businesses to list their unused parking spaces on the app, enabling drivers to book these spaces in real-time. This solution leverages technology and community involvement to make parking more efficient and accessible in a high-demand area.
 
+## Deliverable 2 Plan Preview
+
+For Deliverable 2, we will:
+
+- Define clear functional and system requirements for the platform.
+
+---
+
+## Deliverable 2
+
+
