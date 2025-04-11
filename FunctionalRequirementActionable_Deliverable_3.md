@@ -21,3 +21,12 @@ As a driver, I want to view and navigate to available parking spots using the mo
 
 ---
 
+## 3. FR3: The system shall enable residents and businesses to list unused parking spaces for sharing.
+**User Story 3:**  
+As a resident/business owner, I want to list my unused parking spaces on the platform so that I can share them and earn extra income.  
+**Sub-issues:**  
+- Develop a user registration and login system.  
+- Create a straightforward interface for listing parking spaces.  
+- Allow parking space owners to edit or remove their listings conveniently.
+
+---
