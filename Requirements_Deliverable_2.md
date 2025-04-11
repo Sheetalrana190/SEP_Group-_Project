@@ -81,3 +81,8 @@ The Parking Space Sharing Platform is designed to serve drivers, residents, and 
   - Passport Parking’s payment feature is cited as a benchmark. Community-shared spaces require transactions, necessitating secure payments.
 
 ---
+
+## 5. Assumptions
+- Users will have access to smartphones and stable internet connections.
+- Parking spot owners will participate by listing their spaces on the platform.
+- Sensors will be installed in parking spots to monitor their status.
