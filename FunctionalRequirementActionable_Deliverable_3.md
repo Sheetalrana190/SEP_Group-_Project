@@ -1,7 +1,7 @@
 # User Stories for Functional Requirements
 
 ## 1. FR1: The system shall provide real-time updates on parking spot availability.
-**User Story 1:**  
+**User Story:**  
 As a driver, I want the system to provide real-time updates on parking spot availability so that I can quickly find a vacant spot.  
 **Sub-issues:**  
 - Detect parking spot occupancy using IoT sensors.  
@@ -12,7 +12,7 @@ As a driver, I want the system to provide real-time updates on parking spot avai
 ---
 
 ## 2. FR2: The system shall allow users to view and navigate to available parking spots through a user friendly application.
-**User Story 2:**  
+**User Story:**  
 As a driver, I want to view and navigate to available parking spots using the mobile app so that I can save time and effort.  
 **Sub-issues:**  
 - Integrate a map interface with navigation capabilities.  
@@ -22,7 +22,7 @@ As a driver, I want to view and navigate to available parking spots using the mo
 ---
 
 ## 3. FR3: The system shall enable residents and businesses to list unused parking spaces for sharing.
-**User Story 3:**  
+**User Story:**  
 As a resident/business owner, I want to list my unused parking spaces on the platform so that I can share them and earn extra income.  
 **Sub-issues:**  
 - Develop a user registration and login system.  
@@ -32,7 +32,7 @@ As a resident/business owner, I want to list my unused parking spaces on the pla
 ---
 
 ## 4. FR4: The system shall allow drivers to book parking spaces in real-time.
-**User Story 4:**  
+**User Story:**  
 As a driver, I want to book parking spaces in real-time so that I can secure my spot without uncertainty.  
 **Sub-issues:**  
 - Design an intuitive booking interface in the app.  
@@ -43,7 +43,7 @@ As a driver, I want to book parking spaces in real-time so that I can secure my 
 ---
 
 ## 5. FR5: The system shall include a review and rating system for shared parking spaces.
-**User Story 5:**  
+**User Story:**  
 As a driver, I want to leave reviews and ratings for parking spaces so that others can make informed decisions.  
 **Sub-issues:**  
 - Enable users to rate parking spaces on a scale.  
