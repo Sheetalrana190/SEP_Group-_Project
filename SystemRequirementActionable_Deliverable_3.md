@@ -34,3 +34,25 @@ As a driver, I want mobile apps available for both Android and iOS platforms so 
 - Conduct rigorous testing for app functionality and performance.
 
 ---
+
+## Network Requirements
+
+### SR4: The system shall ensure stable internet connectivity for real-time updates.
+**User Story :**  
+As a system administrator, I want stable internet connectivity to ensure real-time updates for drivers and parking space owners.  
+**Sub-Issues:**  
+- Establish a reliable network infrastructure for consistent connectivity.  
+- Implement failover mechanisms to handle network interruptions seamlessly.  
+- Monitor internet connectivity to resolve potential issues quickly.  
+- Optimize network performance for high-demand scenarios.
+
+### SR5: The system shall provide APIs for communication between sensors, mobile apps, and backend servers.
+**User Story :**  
+As a system, I want APIs to facilitate communication between sensors, mobile apps, and backend servers so that all components work seamlessly.  
+**Sub-Issues:**  
+- Develop efficient APIs for system integration (e.g., sensor data, app functionality).  
+- Secure APIs to prevent unauthorized access or misuse.  
+- Test API performance to ensure low-latency operations.  
+- Provide documentation for API functionality to streamline development.
+
+---
