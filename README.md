@@ -29,6 +29,10 @@ Traffic congestion is a significant issue in the Kitchener-Waterloo area, partic
 
 ---
 
+## Problem Focus: Parking Congestion and Its Impact on Traffic Management
+
+While multiple factors influence traffic congestion, parking congestion near University Avenue in Uptown Waterloo stands out as a significant and recurring challenge. High demand, limited availability, and inefficient parking search behaviors contribute to unnecessary vehicle circulation, adding to traffic density during peak hours.
+
 ## Deliverable 1
 
 ## [Research Work click me](./Research_Deliverable_1.md) : Making the Research to a small area specific.
