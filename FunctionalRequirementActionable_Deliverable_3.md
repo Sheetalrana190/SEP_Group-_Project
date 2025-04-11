@@ -41,3 +41,13 @@ As a driver, I want to book parking spaces in real-time so that I can secure my 
 - Develop a mechanism to prevent double bookings of parking spaces.
 
 ---
+
+## 5. FR5: The system shall include a review and rating system for shared parking spaces.
+**User Story 5:**  
+As a driver, I want to leave reviews and ratings for parking spaces so that others can make informed decisions.  
+**Sub-issues:**  
+- Enable users to rate parking spaces on a scale.  
+- Allow users to submit written reviews after using a parking space.  
+- Aggregate ratings to provide an overall score for each parking space.
+
+---
