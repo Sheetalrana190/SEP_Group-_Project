@@ -56,3 +56,22 @@ As a system, I want APIs to facilitate communication between sensors, mobile app
 - Provide documentation for API functionality to streamline development.
 
 ---
+## Security Requirements
+
+### SR6: The system shall integrate secure payment gateways for handling transactions.
+**User Story :**  
+As a driver, I want secure payment gateways integrated into the platform so that I can make transactions confidently.  
+**Sub-Issues:**  
+- Integrate trusted payment gateways like Stripe or PayPal.  
+- Encrypt sensitive financial data during transactions.  
+- Conduct regular audits to maintain secure payment systems.  
+- Add transaction history functionality for user accounts.
+
+### SR7: The system shall implement encryption protocols (e.g., SSL/TLS) for secure data transmission.
+**User Story :**  
+As a user, I want encryption protocols (e.g., SSL/TLS) to protect my data during transmission so that my information stays private.  
+**Sub-Issues:**  
+- Implement SSL/TLS encryption for secure data communication.  
+- Regularly test and update encryption protocols to tackle emerging threats.  
+- Provide encrypted storage for sensitive user data.  
+- Educate users about data security practices (e.g., avoiding weak passwords).
