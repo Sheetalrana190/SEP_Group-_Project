@@ -65,6 +65,11 @@ The purpose of this document is to define the functional and system requirements
 
 Writing the actionable tasks associated with all the requirements.
 
+## Purpose
+
+This document outlines the user stories and associated sub-issues for the functional and system requirements of a smart parking management system. It serves as a comprehensive reference for stakeholders, developers, and project managers to understand the goals of the system from the users’ perspectives and to break down each requirement into actionable development tasks. The content ensures alignment between technical implementation and user needs, covering aspects such as real-time parking availability, mobile app functionality, parking space sharing, secure transactions, and system infrastructure.
+
+
 ### [Functional Requirements  actionable tasks click me](./FunctionalRequirementActionable_Deliverable_3.md)
 
 ### [System Requirements  actionable tasks click me](./SystemRequirementActionable_Deliverable_3.md)
