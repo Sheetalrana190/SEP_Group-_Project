@@ -76,4 +76,8 @@ This document outlines the user stories and associated sub-issues for the functi
 
 ---
 
+## How to start?
 
+### Proposed Development Plan 
+
+### Proposed Milestone & Timeline Plan
