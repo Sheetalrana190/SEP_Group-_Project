@@ -41,3 +41,43 @@ The Parking Space Sharing Platform is designed to serve drivers, residents, and 
 
 ---
 
+## 4. System Requirements
+
+### Hardware Requirements
+
+**SR1: The system shall include IoT sensors to monitor the occupancy of parking spots.**  
+- **Research Support:**
+  - The "Unique Solution" section explicitly recommends installing sensors in parking spots to detect occupancy.
+  - Similar systems (Rumbo Mobile) use sensors but lack localization to University Avenue.
+
+### Software Requirements
+
+**SR2: The system shall utilize cloud-based infrastructure for real-time data processing and storage.**  
+- **Research Support:**
+  - The need for real-time data processing (e.g., guiding drivers instantly) aligns with cloud scalability, as referenced in Rumbo Mobile’s "smart parking ecosystem."
+
+**SR3: The system shall support mobile app deployment for Android and iOS platforms.**  
+- **Research Support:**
+  - Passport Parking’s app demonstrates user reliance on mobile solutions. Cross-platform support ensures accessibility for all drivers.
+
+### Network Requirements
+
+**SR4: The system shall ensure stable internet connectivity for real-time updates.**  
+- **Research Support:**
+  - The report identifies cruising for parking as a major traffic contributor (30% congestion). Real-time updates via IoT sensors and apps (e.g., Rumbo Mobile’s model) require uninterrupted connectivity to reduce cruising. Unstable internet would replicate existing frustrations (e.g., Passport Parking’s gaps), worsen emissions, and undermine trust. Thus, stable connectivity is critical for sensor/app functionality and environmental goals.
+
+**SR5: The system shall provide APIs for communication between sensors, mobile apps, and backend servers.**  
+- **Research Support:**
+  - The proposed solution involves multiple components (sensors, apps, backend). APIs are standard for such integrations, as seen in LocoMobi World’s AI-driven system.
+
+### Security Requirements
+
+**SR6: The system shall integrate secure payment gateways for handling transactions.**  
+- **Research Support:**
+  - Passport Parking’s payment feature is cited as a benchmark. Community-shared spaces require transactions, necessitating secure payments.
+
+**SR7: The system shall implement encryption protocols (e.g., SSL/TLS) for secure data transmission.**  
+- **Research Support:**
+  - Passport Parking’s payment feature is cited as a benchmark. Community-shared spaces require transactions, necessitating secure payments.
+
+---
