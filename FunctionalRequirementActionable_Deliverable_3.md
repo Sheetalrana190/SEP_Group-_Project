@@ -30,3 +30,14 @@ As a resident/business owner, I want to list my unused parking spaces on the pla
 - Allow parking space owners to edit or remove their listings conveniently.
 
 ---
+
+## 4. FR4: The system shall allow drivers to book parking spaces in real-time.
+**User Story 4:**  
+As a driver, I want to book parking spaces in real-time so that I can secure my spot without uncertainty.  
+**Sub-issues:**  
+- Design an intuitive booking interface in the app.  
+- Ensure real-time availability checks before booking confirmation.  
+- Implement notifications to confirm successful bookings.  
+- Develop a mechanism to prevent double bookings of parking spaces.
+
+---
