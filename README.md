@@ -78,6 +78,9 @@ This document outlines the user stories and associated sub-issues for the functi
 
 ## How to start?
 
-### Proposed Development Plan 
+### [Proposed Development Plan click me](./DevelopmentPlan.md) 
 
-### Proposed Milestone & Timeline Plan
+### Proposed Milestone & Timeline Plan click me](./TimelinePlan.md)
+
+---
+
