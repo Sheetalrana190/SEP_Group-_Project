@@ -59,3 +59,16 @@ For Deliverable 2, we will:
 The purpose of this document is to define the functional and system requirements for the Parking Space Sharing Platform. The platform aims to address parking congestion issues near University Avenue by providing a system for real-time parking availability, community parking space sharing, reduce traffic and improved user experience.
 
 
+---
+
+## Deliverable 3 
+
+Writing the actionable tasks associated with all the requirements.
+
+### Functional Requirements  actionable tasks
+
+### System Requirements  actionable tasks
+
+---
+
+
