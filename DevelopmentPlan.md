@@ -57,3 +57,12 @@
 - **SR7 - User:** As a user, I want encryption protocols (e.g., SSL/TLS) to protect my data during transmission so that my information stays private.
 
 ---
+
+## Epic 6: Ratings, Reviews & Trust Building
+**Goal:** Enhance the user experience and system reliability through feedback.
+
+### Priority 9: Ratings and Reviews
+**User Stories:**
+- **FR5 - Driver:** As a driver, I want to leave reviews and ratings for parking spaces so that others can make informed decisions.
+
+---
