@@ -29,3 +29,16 @@ This document outlines the development roadmap, structured by Epics, Milestones,
 | User Feedback | Collect feedback from beta users, surveys, reviews |
 
 ---
+
+## Epic Duration Summary
+
+| **Epic** | **Estimated Duration** | **Month(s)** |
+|----------|------------------------|--------------|
+| Epic 1: Core Infra & Backend | 4 weeks | Month 1 |
+| Epic 2: Mobile Core & Navigation | 5 weeks | Month 2–3 |
+| Epic 3: User Listings | 3 weeks | Month 4 |
+| Epic 4: Booking System | 3 weeks | Month 5 |
+| Epic 5: Secure Payments & Data | 4 weeks | Month 6 |
+| Epic 6: Reviews & Final QA | 3–4 weeks | Month 7 |
+
+---
