@@ -18,3 +18,14 @@ This document outlines the development roadmap, structured by Epics, Milestones,
 | **Post Month 7** | Launch Phase | Soft launch / Beta testing | Live beta on app stores <br> Feedback collection & iteration plan |
 
 ---
+
+## Continuous Activities (Ongoing Every Month)
+
+| **Activity** | **Description** |
+|--------------|-----------------|
+| Security | Run vulnerability scans, protect APIs, monitor encryption |
+| Testing | Unit tests, integration tests, system testing, UAT |
+| Monitoring | Monitor backend, sensors, and network uptime |
+| User Feedback | Collect feedback from beta users, surveys, reviews |
+
+---
