@@ -35,3 +35,12 @@
 - **FR3 - Resident/Business Owner:** As a resident/business owner, I want to list my unused parking spaces on the platform so that I can share them and earn extra income.
 
 ---
+
+## Epic 4: Booking & Reservation System
+**Goal:** Empower users to reserve and plan their parking confidently.
+
+### Priority 6: Booking System
+**User Stories:**
+- **FR4 - Driver:** As a driver, I want to book parking spaces in real-time so that I can secure my spot without uncertainty.
+
+---
