@@ -44,3 +44,16 @@
 - **FR4 - Driver:** As a driver, I want to book parking spaces in real-time so that I can secure my spot without uncertainty.
 
 ---
+
+## Epic 5: Secure Transactions and Data Protection
+**Goal:** Provide safe and private payment and communication systems.
+
+### Priority 7: Payment Gateway Integration
+**User Stories:**
+- **SR6 - Driver:** As a driver, I want secure payment gateways integrated into the platform so that I can make transactions confidently.
+
+### Priority 8: Data Encryption
+**User Stories:**
+- **SR7 - User:** As a user, I want encryption protocols (e.g., SSL/TLS) to protect my data during transmission so that my information stays private.
+
+---
