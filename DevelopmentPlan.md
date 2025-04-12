@@ -13,3 +13,16 @@
 - **SR2 - System:** As a system, I want cloud-based infrastructure to handle real-time data processing and storage so that the platform remains scalable and efficient.
 - **SR5 - System:** As a system, I want APIs to facilitate communication between sensors, mobile apps, and backend servers so that all components work seamlessly.
 ---
+
+## Epic 2: Mobile App with Core Features
+**Goal:** Provide drivers with real-time visibility and navigation to spots.
+
+### Priority 3: Real-Time Parking Availability
+**User Stories:**
+- **FR1 - Driver:** As a driver, I want the system to provide real-time updates on parking spot availability so that I can quickly find a vacant spot.
+
+### Priority 4: Mobile Navigation
+**User Stories:**
+- **FR2 - Driver:** As a driver, I want to view and navigate to available parking spots using the mobile app so that I can save time and effort.
+- **SR3 - Driver:** As a driver, I want mobile apps available for both Android and iOS platforms so that I can access the service regardless of my device.
+---
