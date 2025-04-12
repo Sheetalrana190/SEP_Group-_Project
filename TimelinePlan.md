@@ -42,3 +42,5 @@ This document outlines the development roadmap, structured by Epics, Milestones,
 | Epic 6: Reviews & Final QA | 3–4 weeks | Month 7 |
 
 ---
+
+This plan enables a well-paced agile delivery of the Minimum Viable Product (MVP), with parallel continuous activities and feedback loops integrated into every phase.
