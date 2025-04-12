@@ -26,3 +26,12 @@
 - **FR2 - Driver:** As a driver, I want to view and navigate to available parking spots using the mobile app so that I can save time and effort.
 - **SR3 - Driver:** As a driver, I want mobile apps available for both Android and iOS platforms so that I can access the service regardless of my device.
 ---
+
+## Epic 3: User Onboarding & Space Listing
+**Goal:** Let residents and business owners join and contribute.
+
+### Priority 5: Listing Unused Parking Spaces
+**User Stories:**
+- **FR3 - Resident/Business Owner:** As a resident/business owner, I want to list my unused parking spaces on the platform so that I can share them and earn extra income.
+
+---
