@@ -66,3 +66,10 @@
 - **FR5 - Driver:** As a driver, I want to leave reviews and ratings for parking spaces so that others can make informed decisions.
 
 ---
+
+## Continuous & Parallel Activities
+These should be integrated throughout all phases:
+- **Testing:** Unit, integration, system, and user acceptance testing
+- **Monitoring:** Real-time monitoring for performance, errors, downtime
+- **Security:** Run vulnerability scans, API key protection
+- **User Feedback:** Regular surveys, beta feedback loops
