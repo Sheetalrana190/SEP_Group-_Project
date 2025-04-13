@@ -1,6 +1,6 @@
 # Unique Solution: Parking Space Sharing App
 
-To address the parking congestion issue near University Avenue, we propose a unique solution: a **Parking Space Sharing App**.
+To address the Traffic problem due to the parking congestion issue near University Avenue, we propose a unique solution: a **Parking Space Sharing App**.
 
 ### Assumptions: 
 1.	University Avenue experiences frequent parking congestion due to its proximity to universities and local businesses.
