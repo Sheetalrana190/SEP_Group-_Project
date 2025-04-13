@@ -46,6 +46,18 @@ More details of research you can find by clicking Research Work.
 
 The Parking Space Sharing Platform aims to alleviate parking congestion near University Avenue by using sensors to detect real-time parking availability and integrating this data into a mobile app that guides drivers to open spots. Additionally, it encourages community participation by allowing residents and businesses to list their unused parking spaces on the app, enabling drivers to book these spaces in real-time. This solution leverages technology and community involvement to make parking more efficient and accessible in a high-demand area.
 
+## Statistics 
+Based on available research and studies, here are some key statistics about traffic congestion caused by drivers searching for parking:
+1.	**Proportion of Traffic**: Studies estimate that up to 30% of urban traffic congestion is caused by vehicles cruising for parking, particularly in densely populated areas.
+2.	**Time Spent Searching**: On average, drivers spend 8 to 15 minutes searching for parking in congested urban areas. This contributes significantly to delays and inefficiencies in traffic flow.
+3.	**Environmental Impact**: The additional fuel consumption from vehicles cruising for parking leads to increased emissions. For example, it is estimated that cruising for parking in a single city can produce thousands of tons of CO2 annually.
+4.	**Economic Costs**: The time and fuel wasted while searching for parking have economic implications, including increased costs for commuters and businesses.
+These statistics highlight the critical role parking congestion plays in urban traffic issues and reinforce the importance of addressing this problem to improve traffic flow and reduce environmental and economic impacts. 
+
+Rerer : https://www.carteeh.org/indicator/time-spent-searching-for-parking/
+
+---
+
 ## Deliverable 2 Plan Preview
 
 For Deliverable 2, we will:
