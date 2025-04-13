@@ -106,6 +106,23 @@ Despite efforts to enhance public transportation systems, a significant portion 
 Even with the option of public transportation, the heavy reliance on personal vehicles emphasizes the critical need to address parking congestion. Vehicles searching for parking spots disrupt traffic flow and lead to bottlenecks at major intersections, such as **University Avenue and King Street North**. This behavior contributes significantly to delays and congestion, particularly during peak hours.
 
 ---
+
+## Carpooling as an Alternative Solution
+Carpooling is often suggested as a way to reduce traffic congestion by consolidating trips into fewer vehicles. While it offers several benefits, such as reducing fuel consumption, emissions, and the number of cars on the road, it faces significant challenges that limit its effectiveness in addressing parking-induced traffic congestion in Uptown Waterloo.
+### Challenges of Carpooling
+1.	**Lack of Flexibility**- 
+Carpooling requires coordination among participants, which can limit individual freedom. Drivers and passengers must agree on departure times, routes, and stops, making it inconvenient for those with unpredictable schedules or last-minute changes.
+2.	**Dependency on Others**- 
+Participants rely on each other for punctuality and adherence to the agreed schedule. If one person is late or cancels unexpectedly, it can disrupt the entire arrangement.
+3.	**Limited Adoption**- 
+Despite its benefits, carpooling has not been widely adopted in Uptown Waterloo due to behavioral preferences. Many individuals prioritize the privacy, convenience, and flexibility of driving alone.
+4.	**Logistical Challenges**- 
+Organizing carpools can be complex, especially when participants have different destinations or schedules. This makes carpooling impractical for many commuters in the area.
+5.	**Impact on Parking Congestion**- 
+While carpooling reduces the number of vehicles on the road, it does not directly address the issue of parking congestion. Drivers participating in carpools still require parking spaces, and the demand for parking remains high during peak hours.
+
+---
+
 ## References
 
 1. [Reddit Discussion on Traffic Congestion](https://www.reddit.com/r/waterloo/comments/y2cv4p/is_it_just_me_or_is_traffic_congestion_around/)  
