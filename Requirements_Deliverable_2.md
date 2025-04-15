@@ -86,3 +86,10 @@ The Parking Space Sharing Platform is designed to serve drivers, residents, and 
 - Users will have access to smartphones and stable internet connections.
 - Parking spot owners will participate by listing their spaces on the platform.
 - Sensors will be installed in parking spots to monitor their status.
+
+---
+
+### [Functional Requirements  actionable tasks click me](./FunctionalRequirementActionable_Deliverable_3.md)
+
+### [System Requirements  actionable tasks click me](./SystemRequirementActionable_Deliverable_3.md)
+---
