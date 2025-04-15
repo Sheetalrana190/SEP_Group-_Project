@@ -96,3 +96,7 @@ This document outlines the user stories and associated sub-issues for the functi
 
 ---
 
+### View Project Issues Here : https://github.com/Sheetalrana190/SEP_Group-_Project/issues
+
+### View Project Kanban Board Here : https://github.com/users/Sheetalrana190/projects/4
+
