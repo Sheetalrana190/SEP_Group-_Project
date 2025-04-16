@@ -98,5 +98,6 @@ This document outlines the user stories and associated sub-issues for the functi
 
 ### View Project Issues Here : https://github.com/Sheetalrana190/SEP_Group-_Project/issues
 
-### View Project Kanban Board Here : https://github.com/users/Sheetalrana190/projects/4
+### View Project Kanban Board Here : [https://github.com/users/Sheetalrana190/projects/4]
+### View Explanation Video Here : [https://stuconestogacon-my.sharepoint.com/:v:/g/personal/usurti3413_conestogac_on_ca/EZC5qFlNA1JOs8C4zXGpnjkBa3evpBP3e_lpaVqcMRo-JA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eo8RJJ]
 
