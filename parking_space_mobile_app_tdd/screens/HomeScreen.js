@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, FlatList } from 'react-native';
+import { SafeAreaView, FlatList } from 'react-native';
 import ParkingCard from '../components/ParkingCard';
 import { parkingData } from '../data/mockData';
 
@@ -14,7 +14,7 @@ const HomeScreen = () => {
   };
 
   return (
-    <View style={{ padding: 16 }}>
+    <SafeAreaView style={{ padding: 16 }}>
       <FlatList
         data={spaces}
         keyExtractor={item => item.id.toString()}
@@ -22,7 +22,7 @@ const HomeScreen = () => {
           <ParkingCard space={item} onBook={() => handleBook(item.id)} />
         )}
       />
-    </View>
+    </SafeAreaView>
   );
 };
 

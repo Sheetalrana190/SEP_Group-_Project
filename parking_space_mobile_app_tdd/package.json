@@ -1,0 +1,29 @@
+{
+  "name": "parking_space_mobile_app_tdd",
+  "version": "1.0.0",
+  "description": "This is a prototype mobile app built using React Native (Expo) with a Test-Driven Development (TDD) approach.",
+  "main": "App.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "^7.3.14",
+    "@react-navigation/native": "^7.1.10",
+    "expo": "^53.0.11",
+    "react-dom": "19.0.0",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-web": "^0.20.0"
+  }
+}
