@@ -2,20 +2,20 @@
 
 This is a prototype mobile app built using React Native (Expo) with a Test-Driven Development (TDD) approach.
 
-## 📦 Features
+## Features
 - Mocked User Login
 - Static list of available parking spaces
 - Ability to post a new parking space
 - Book a parking space
 - Basic navigation (Home, Post, Bookings)
 
-## 🚀 How to Run
+## How to Run
 ```bash
 npm install
 npx expo start
 ```
 
-## 🧪 Run Tests
+## Run Tests
 ```bash
 npm test
 ```
