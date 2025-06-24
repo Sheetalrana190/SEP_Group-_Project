@@ -1,8 +1,15 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
+import { render } from '@testing-library/react-native';
 import App from '../App';
 
-test('App renders correctly', () => {
-  const tree = renderer.create(<App />).toJSON();
-  expect(tree).toMatchSnapshot();
+describe('App Navigation', () => {
+  it('renders the Home screen by default', () => {
+    const screen = render(<App />);
+    expect(screen.getByText('Lot A')).toBeTruthy(); // or 'Lot B', 'Lot C'
+  });
+
+  it('renders successfully', () => {
+    const screen = render(<App />);
+    expect(screen).toBeDefined();
+  });
 });

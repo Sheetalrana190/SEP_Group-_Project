@@ -10,7 +10,7 @@ const Tab = createBottomTabNavigator();
 export default function App() {
   return (
     <NavigationContainer>
-      <Tab.Navigator>
+      <Tab.Navigator testID="tab-bar">
         <Tab.Screen name="Home" component={HomeScreen} />
         <Tab.Screen name="Post" component={PostScreen} />
         <Tab.Screen name="Bookings" component={BookingScreen} />
@@ -18,4 +18,3 @@ export default function App() {
     </NavigationContainer>
   );
 }
-
